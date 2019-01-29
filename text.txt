@@ -1,2 +1,6 @@
 npm install express
 node .\serve.js
+//add github
+git init
+
+git add .
