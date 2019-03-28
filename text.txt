@@ -7,3 +7,5 @@ git add .
 git commit -m 'primer commit'
 git remote add origin https://github.com/Jersson-UTP/javascript-import-export-slider.git
 git push -u origin master
+
+uno
